@@ -1,0 +1,86 @@
+{
+  "citations": [
+    {
+      "source": "Search Engine Journal",
+      "title": "Google Gemini Can Now Control Your Computer. Hackers Are Already Targeting AI Agents",
+      "url": "https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer-hackers-are-already-targeting-ai-agents/"
+    },
+    {
+      "source": "Google DeepMind Blog",
+      "title": "Introducing the Gemini 2.5 Computer Use model",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-computer-use-model/"
+    },
+    {
+      "source": "Anthropic Engineering",
+      "title": "Building Effective AI Agents",
+      "url": "https://www.anthropic.com/engineering/building-effective-agents"
+    },
+    {
+      "source": "Blockchain Council",
+      "title": "MCP vs RAG vs Skills: AI Agent Architecture",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGbHYxUE9Zbmd5WVNGTUJabVZNMnJxVzhYeTZvcVRxNWNNcm5yQWtjSzQ0S0YzZjRtLW5qNUl5Mmc4LWdBeW1EMkxvQzRqekFlYVY0OFJpVHhwaHZCZTlhN0VBa0lIQ3BibXJSdHlkeFc4R2h3"
+    },
+    {
+      "source": "Tech Times",
+      "title": "AI Agent Safety: Benchmark Finds None of 13 Agents Cleared 40% Safe Completion",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYkZYUlRvMGswUVU0WEgxX2ZRNFRvSkgwanZqMnhrd2g1ajhLUjNCZjRpeG9QandNNl9YZWl4SzVZamg5Z3BGMG1OVnZnQXVyY00xNEI0Ym04c2pLc2RfMzZtdExDOWlxSXJHZDh6V1VndFZjTUtXRXR2Q0RZWnA5VGIxTjY0VnVJdTlTdzBHOUhFMkNCbTkxRzM2OThEeGtYc19La3oyRlZuS2ItaTNpZ3l3ZklsOE9NME5zRGhuei0tcGwwbmZJ"
+    },
+    {
+      "source": "IBM",
+      "title": "How to Deploy AI Agents Across the Enterprise",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5sU0FXbGRhT1FHNkpyb2txTG5wcWMyOVEyZmQwRjBNR0ZHelc1Y1lsNWFpZXVmZlptNExWazdHYTQwbWs1VjBSODFfb2VuRjFlT3VkMjFHUy1qQnBLRWF6NkVB"
+    }
+  ],
+  "design_plan": "Python RNG Execution: seed=hash('Computer-use cache|use_case|builders and operators|2026-07-06T02:24:05.725787+00:00') -> selected architecture=workflow-command-center, components=[workflow-playbook-timeline, implementation-checklist, source-card-dossier], GSAP paradigms=[pinned-chapter-scroll, hover-physics]. AIDA Check: Attention(hero headline + media), Interest(market context + proof), Desire(workflow + cache benefits), Action(CTA band). Font Selection: Cabinet Grotesk primary. Hero Math Verification: clamp headline to 2\u20133 lines at 1120px max-width. Bento Density Verification: grid-auto-flow:dense present. GSAP Motion Selection: guarded ScrollTrigger + hover physics. Label Sweep & Button Check: black primary CTA, white secondary CTA, contrast verified.",
+  "generated_at": "2026-07-06T02:25:17.977611+00:00",
+  "headline": "Computer-use cache for repeated AI automation",
+  "site_brief": {
+    "audience": "builders and operators who need repeated computer-use automations to get cheaper and more reliable",
+    "canonical_url": "https://app.getsupers.com/use-cases/computer-use-cache/",
+    "cluster_links": [
+      {
+        "slug": "order-food-with-ai",
+        "title": "Order food with AI",
+        "url": "https://app.getsupers.com/use-cases/order-food-with-ai/"
+      },
+      {
+        "slug": "book-rides-with-ai",
+        "title": "Book rides with AI",
+        "url": "https://app.getsupers.com/use-cases/book-rides-with-ai/"
+      },
+      {
+        "slug": "text-message-ai-assistant",
+        "title": "Text message AI assistant",
+        "url": "https://app.getsupers.com/use-cases/text-message-ai-assistant/"
+      },
+      {
+        "slug": "meta-display-ai-assistant",
+        "title": "Meta Display AI assistant",
+        "url": "https://app.getsupers.com/use-cases/meta-display-ai-assistant/"
+      },
+      {
+        "slug": "ai-agent-build-websites",
+        "title": "AI agent to build websites",
+        "url": "https://app.getsupers.com/use-cases/ai-agent-build-websites/"
+      },
+      {
+        "slug": "computer-use-cache",
+        "title": "Computer-use cache",
+        "url": "https://app.getsupers.com/use-cases/computer-use-cache/"
+      }
+    ],
+    "goal": "Create an indexable SEO use-case page in the /use-cases/ cluster. Target the practical query 'Computer-use cache', show the exact job-to-be-done, and explain how Super can perform the workflow with real computer use and a reusable computer-use cache. Include sibling use-case links so the cluster feels intentional, crawlable, and useful. Add a long-form operator playbook with how-to steps, setup checklist, realistic limits, confirmation moments, and examples that a reader can act on immediately.",
+    "kind": "use_case",
+    "queries": [
+      "computer use cache AI agent",
+      "computer-use AI agent repeated workflows",
+      "browser automation agent cache",
+      "AI agent action trace reuse"
+    ],
+    "route_prefix": "use-cases",
+    "slug": "computer-use-cache",
+    "title": "Computer-use cache",
+    "use_case_intent": "explain Super's computer-use cache as the reusable memory layer for repeated browser and desktop workflows"
+  },
+  "summary": "A practical operator guide explaining how Super\u2019s computer-use cache makes repeated browser and desktop automations cheaper, more reliable, and easier to scale for builders and operators."
+}
